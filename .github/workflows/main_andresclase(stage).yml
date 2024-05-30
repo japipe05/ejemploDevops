@@ -54,4 +54,4 @@ jobs:
           app-name: 'andresclase'
           slot-name: 'stage'
           package: '*.jar'
-          publish_profile: ${{secrets.APPSERVICESPROFILE}}
+          publish-profile: ${{secrets.APPSERVICESPROFILE}}
